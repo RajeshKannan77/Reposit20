@@ -25,6 +25,8 @@ public class Array {
 			
 			System.out.println(k);
 		}
+		
+		System.out.println("hai");
 	}
 
 }
